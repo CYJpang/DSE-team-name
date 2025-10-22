@@ -8,3 +8,4 @@ Ik snap niks van GitHub
 - blender
 - vs codium
 - krita
+- LaTeX
