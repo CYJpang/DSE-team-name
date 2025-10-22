@@ -1,0 +1,4 @@
+def random():
+	print('idk what to do....')
+	return None
+
