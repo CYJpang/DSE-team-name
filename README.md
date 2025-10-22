@@ -9,3 +9,6 @@ Ik snap niks van GitHub
 - vs codium
 - krita
 - LaTeX
+- openai
+
+###### WOW
